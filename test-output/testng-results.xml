@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-19T16:01:10 IST" name="Default suite" finished-at="2025-02-19T16:02:37 IST" duration-ms="86879">
+    <groups>
+    </groups>
+    <test started-at="2025-02-19T16:01:10 IST" name="Default test" finished-at="2025-02-19T16:02:37 IST" duration-ms="86879">
+      <class name="Practice.iposTableTest">
+        <test-method signature="tableTest()[pri:0, instance:Practice.iposTableTest@51e69659]" started-at="2025-02-19T16:01:10 IST" name="tableTest" finished-at="2025-02-19T16:02:37 IST" duration-ms="86758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tableTest -->
+      </class> <!-- Practice.iposTableTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
