@@ -18,6 +18,7 @@ public class iposTableTest {
 		SearchContext shadowHost = driver.findElement(By.xpath("//div[@class='jupiter22-ipo-calendar__upcoming calendar-container show']/descendant::nsdq-table-sort")).getShadowRoot();
 		String txt = shadowHost.findElement(By.cssSelector("div[data-row-index='1']")).getText();
 		System.out.println(txt);
+		
 		SearchContext shadowHost1 = driver.findElement(By.xpath("//div[@class='jupiter22-ipo-calendar__priced calendar-container show']/descendant::nsdq-table-sort")).getShadowRoot();
 		String txt1 = shadowHost1.findElement(By.cssSelector("div[data-row-index='1']")).getText();
 		System.out.println(txt1);

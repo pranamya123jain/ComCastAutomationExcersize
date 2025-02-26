@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Practice.iposTableTest">
+      <class name="Practice.FnpComFindPerfume">
         <methods>
-          <include name="tableTest"/>
+          <include name="findPerfumeTest"/>
         </methods>
-      </class> <!-- Practice.iposTableTest -->
+      </class> <!-- Practice.FnpComFindPerfume -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
